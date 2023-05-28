@@ -1,1 +1,3 @@
-# Android-Development-For-Beginners
+# Learning Android development
+
+## This Repository is about my android Development Journey
